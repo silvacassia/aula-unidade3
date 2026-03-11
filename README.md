@@ -11,3 +11,5 @@ Texto 3
 Texto 4
 
 Que sono!
+
+Luffy nunca tá puro.
