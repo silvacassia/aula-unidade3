@@ -12,4 +12,4 @@ Texto 4
 
 Que sono!
 
-Luffy nunca tá puro.
+A aula de programação é segunda e quarta.
