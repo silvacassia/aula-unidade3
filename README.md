@@ -10,6 +10,4 @@ Texto 3
 
 Texto 4
 
-Que sono!
-
 A aula de programação é segunda e quarta.
